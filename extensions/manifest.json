@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "E-Commerce Product Q&A",
+  "version": "1.0",
+  "description": "Ask questions about the product currently visible on the screen",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Product Q&A"
+  }
+}
